@@ -32,3 +32,5 @@ Attempting: Integrated a Shapley value-based game theory framework to explain fe
 Challenge: SVR model combinations from our datasets have been exhausted with minimal improvements to reach below 1.6% MSE rate. Now trying graph representations with appropriate edge definitions and node features.
 
 Attempting: Graph Neural Network training on particle behaviors. Also viewing Autoencoders and PCA for dimensionality reduction, and performance of K-Means in deep learning applications.
+
+https://github.com/ReubenSantoso/C3S-Neural-Network-Project
