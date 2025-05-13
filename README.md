@@ -1,8 +1,16 @@
 # CCS Regression with K-Means & SVR
 
-This repository contains code and experiments for predicting ion-neutral collision cross sections (CCS) of small molecules via a clustering-plus-regression pipeline. We extend Ross *et al.*’s 2020 work:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1} by coupling K-Means clustering with Support Vector Regression (SVR) and exploring feature variants such as polarization descriptors, MQNs, adducts, and data cleaning logic.
+This repository contains code and experiments for predicting ion-neutral collision cross sections (CCS) of small molecules via a clustering-plus-regression pipeline. We extend the paper:
 
-### https://github.com/dylanhross/c3sdb
+Dylan H. Ross, Jang Ho Cho, and Libin Xu
+
+Analytical Chemistry 2020 92 (6), 4548-4557
+
+DOI: 10.1021/acs.analchem.9b05772
+
+by coupling K-Means clustering with Support Vector Regression (SVR) and exploring feature variants such as polarization descriptors, MQNs, adducts, and data cleaning logic.
+
+#### Forked From: https://github.com/dylanhross/c3sdb
 
 ---
 
